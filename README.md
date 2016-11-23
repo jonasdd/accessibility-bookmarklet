@@ -1,17 +1,17 @@
 # accessibility-bookmarklet
 ## Pour qui
 
-Pour ceux qui serraient ammenés à auditer l'accessibilité web en suivant la méthodologie https://github.com/DISIC/rgaa_methodologie, des css de tests sont fournis.
+Pour ceux qui seraient ammenés à auditer l'accessibilité web en suivant la méthodologie https://github.com/DISIC/rgaa_methodologie, des css de tests sont fournis.
 Cette bookmarklet vous permettra de naviguer parmi ces css très rapidement (sélecteur rapide en pied de page) (fig1).
 
 ### fig1
 ![Screenshot](https://github.com/jonasdd/accessibility-bookmarklet/blob/master/sel-capture.jpg)
 
 ## Générer la bookmarklet
-Github ne me permet pas de générer directement le lien à copier dans vos favoris.
+Github ne permet pas de générer directement le lien à copier dans vos favoris.
 Vous devez donc suivre ces trois étapes :
 
-0. Utilisez un générateur de bookmarklet pour générer le lien de favori ! Vous pouvez utiliser http://bookmarklets.org/maker/ 
+0. Utilisez un générateur de bookmarklet pour générer le lien de favori. Utilisez par exemple : http://bookmarklets.org/maker/ 
 0. Veuillez décocher : 
  0. URL-encode
  0. jQuery
@@ -61,7 +61,7 @@ var head = document.head
   head.appendChild(scriptLink)
 ```
 
-Il ne vous reste ensuite qu'à glisser/déposer le lien dans vos favoris.
+Il ne vous reste ensuite qu'à glisser/déposer le lien généré dans vos favoris.
 
 # Utilisation
 
