@@ -42,7 +42,7 @@ select = document.createElement('SELECT');
 document.body.appendChild(select);
 select.setAttribute("id","monSelect");
 select.setAttribute("onchange","loadCss(event);");
-select.setAttribute("style","position:fixed;background:white;bottom:0;");
+select.setAttribute("style","position:fixed;background:white;bottom:0;z-index: 1000000000000000000000000000000000;left:0");
 select1 = document.getElementById('monSelect');
 
 // on ajoute autant d'option de css
