@@ -15,7 +15,7 @@ Vous devez donc suivre ces trois étapes :
 0. Veuillez décocher : 
  0. URL-encode
  0. jQuery
-0. copier/coller le code ci-dessous dans le générateur
+0. Copier/coller le code ci-dessous dans le générateur
 
 ````javascript
 // on liste les urls des stylesheet et on les mets dans un tableau
