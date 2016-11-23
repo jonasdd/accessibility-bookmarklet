@@ -12,7 +12,7 @@ Github ne me permet pas de générer directement le lien à copier dans vos favo
 Vous devez donc suivre ces trois étapes :
 
 0. Utilisez un générateur de bookmarklet pour générer le lien de favori ! Vous pouvez utiliser http://bookmarklets.org/maker/ 
-0. Veuillez : 
+0. Veuillez décocher : 
  0. URL-encode
  0. jQuery
 0. copier/coller le code ci-dessous dans le générateur
