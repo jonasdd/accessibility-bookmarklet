@@ -1,10 +1,16 @@
-# accessibility-bookmarklet
-## Pour qui
+# Accessibility-bookmarklet-rgaa
+## Pour qui ?
 
 Pour ceux qui seraient ammenés à auditer l'accessibilité web en suivant la méthodologie https://github.com/DISIC/rgaa_methodologie, cette bookmarklet permettra de naviguer parmi les css cités (et fourni dans le référentiel) - (sélecteur rapide en pied de page) (fig1).
 
 ### fig1
 ![Screenshot](https://github.com/jonasdd/accessibility-bookmarklet/blob/master/sel-capture.jpg)
+
+## Pourquoi ?
+
+Accéder à une collection complète de feuilles de styles css en un clic.
+
+**NOTE : dans l'absolu cette méthode d'injection de css dans une page web vous permettra de créer votre propre jeu de test. Il vous suffira de remplacer les urls du script (voir plus bas), par les vôtres.**
 
 ## Générer la bookmarklet
 Github ne permet pas de générer directement le lien à copier dans vos favoris.
@@ -69,3 +75,5 @@ Naviguez vers la page à auditer. Cliquez sur votre favori. C'est tout !
 # License
 
 The MIT Licence (MIT)
+
+
