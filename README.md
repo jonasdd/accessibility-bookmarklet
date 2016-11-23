@@ -50,7 +50,7 @@ select.setAttribute("onchange","loadCss(event);");
 select.setAttribute("style","position:fixed;background:white;bottom:0;z-index: 1000000000000000000000000000000000;left:0");
 select1 = document.getElementById('monSelect');
 
-// on ajoute autant d'option de css
+// on ajoute autant d'option que de feuille de style css
 styleSheetArray.forEach(function(element) {
     var filename = element.substring(element.lastIndexOf("/") + 1, element.lastIndexOf("."));
     var opt = document.createElement('option');
