@@ -59,3 +59,7 @@ var head = document.head
 ```
 
 Il ne vous reste ensuite qu'à glisser/déposer le lien dans vos favoris.
+
+# License
+
+The MIT Licence (MIT)
