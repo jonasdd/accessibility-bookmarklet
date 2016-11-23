@@ -2,13 +2,18 @@
 ## Pour qui
 
 Pour ceux qui serraient ammenés à auditer l'accessibilité web en suivant la méthodologie https://github.com/DISIC/rgaa_methodologie, des css de tests sont fournis.
-Cette bookmarklet vous permettra de naviguer parmi les css de test très rapidement.
+Cette bookmarklet vous permettra de naviguer parmi ces css très rapidement (sélecteur rapide en pied de page).
 
 ## Utilisation
-Utilisez un générateur de bookmarklet pour générer le lien de favori !
+Github ne me permet pas de générer directement le lien à copier dans vos favoris.
+Vous devez donc suivre ces trois étapes :
 
-Vous pouvez utiliser http://bookmarklets.org/maker/ 
-Veuillez à décocher URL-encode et jQuery
+0. Utilisez un générateur de bookmarklet pour générer le lien de favori ! Vous pouvez utiliser http://bookmarklets.org/maker/ 
+0. Veuillez : 
+ 0. URL-encode
+ 0. jQuery
+0. copier/coller le code ci-dessous dans le générateur
+
 ````javascript
 // on liste les urls des stylesheet et on les mets dans un tableau
 var url1 = "https://cdn.rawgit.com/DISIC/rgaa_methodologie/master/Check-css/check-aide-saisie.css",
@@ -53,4 +58,4 @@ var head = document.head
   head.appendChild(scriptLink)
 ```
 
-Il ne vous reste ensuite qu'a glisser/déposer le lien dans vos favoris.
+Il ne vous reste ensuite qu'à glisser/déposer le lien dans vos favoris.
