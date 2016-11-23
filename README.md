@@ -65,7 +65,7 @@ Il ne vous reste ensuite qu'à glisser/déposer le lien dans vos favoris.
 
 # Utilisation
 
-Naviguer vers la page à auditer. Cliquer sur votre favori. C'est tout !
+Naviguez vers la page à auditer. Cliquez sur votre favori. C'est tout !
 
 # License
 
