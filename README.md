@@ -1,4 +1,9 @@
 # accessibility-bookmarklet
+## Pour qui
+
+Pour ceux qui serraient ammenés à auditer l'accessibilité web en suivant la méthodologie https://github.com/DISIC/rgaa_methodologie, des css de tests sont fournis.
+Cette bookmarklet vous permettra de naviguer parmi les css de test très rapidement.
+
 ## Utilisation
 Utilisez un générateur de bookmarklet pour générer le lien de favori !
 
