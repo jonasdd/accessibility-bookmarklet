@@ -1,8 +1,7 @@
 # accessibility-bookmarklet
 ## Pour qui
 
-Pour ceux qui seraient ammenés à auditer l'accessibilité web en suivant la méthodologie https://github.com/DISIC/rgaa_methodologie, des css de tests sont fournis.
-Cette bookmarklet vous permettra de naviguer parmi ces css très rapidement (sélecteur rapide en pied de page) (fig1).
+Pour ceux qui seraient ammenés à auditer l'accessibilité web en suivant la méthodologie https://github.com/DISIC/rgaa_methodologie, cette bookmarklet permettra de naviguer parmi les css cités (et fourni dans le référentiel) - (sélecteur rapide en pied de page) (fig1).
 
 ### fig1
 ![Screenshot](https://github.com/jonasdd/accessibility-bookmarklet/blob/master/sel-capture.jpg)
