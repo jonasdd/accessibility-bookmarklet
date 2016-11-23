@@ -41,9 +41,10 @@ url14 = "https://cdn.rawgit.com/DISIC/rgaa_methodologie/master/Check-css/check_p
 url15 = "https://cdn.rawgit.com/DISIC/rgaa_methodologie/master/Check-css/check_structure.css";
 
 var styleSheetArray = [url1, url2, url3, url4, url5, url6, url7, url8, url9, url10, url11, url12, url13, url14, url15],
+
+// on cree le select
 body = document.getElementsByTagName('body')[0],
 select = document.createElement('SELECT');
-
 document.body.appendChild(select);
 select.setAttribute("id","monSelect");
 select.setAttribute("onchange","loadCss(event);");
@@ -58,6 +59,7 @@ styleSheetArray.forEach(function(element) {
     select1.appendChild(opt);
 });
 
+// on s'assure de la persistence du script gérant les évènements sur le select dans la page - voir lien
 var inlineScript = "https://cdn.rawgit.com/jonasdd/accessibility-bookmarklet/master/script-bookmarklet-rgaa-0.3.js";
 
 var head = document.head
