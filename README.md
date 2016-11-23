@@ -7,7 +7,7 @@ Cette bookmarklet vous permettra de naviguer parmi ces css très rapidement (sé
 ### fig1
 ![Screenshot](https://github.com/jonasdd/accessibility-bookmarklet/blob/master/sel-capture.jpg)
 
-## Utilisation
+## Générer la bookmarklet
 Github ne me permet pas de générer directement le lien à copier dans vos favoris.
 Vous devez donc suivre ces trois étapes :
 
@@ -62,6 +62,10 @@ var head = document.head
 ```
 
 Il ne vous reste ensuite qu'à glisser/déposer le lien dans vos favoris.
+
+# Utilisation
+
+Naviguer vers la page à auditer. Cliquer sur votre favori. C'est tout !
 
 # License
 
