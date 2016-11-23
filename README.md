@@ -2,7 +2,10 @@
 ## Pour qui
 
 Pour ceux qui serraient ammenés à auditer l'accessibilité web en suivant la méthodologie https://github.com/DISIC/rgaa_methodologie, des css de tests sont fournis.
-Cette bookmarklet vous permettra de naviguer parmi ces css très rapidement (sélecteur rapide en pied de page).
+Cette bookmarklet vous permettra de naviguer parmi ces css très rapidement (sélecteur rapide en pied de page) (fig1).
+
+### fig1
+![Screenshot](https://github.com/jonasdd/BeardyBeer-MashStepsTracking/blob/master/screenshot.png)
 
 ## Utilisation
 Github ne me permet pas de générer directement le lien à copier dans vos favoris.
