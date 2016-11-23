@@ -1,6 +1,7 @@
 # accessibility-bookmarklet
 ## Utilisation
 Utilisez un générateur de bookmarklet pour générer le lien de favori !
+
 Vous pouvez utiliser http://bookmarklets.org/maker/ 
 Veuillez à décocher URL-encode et jQuery
 ````javascript
@@ -47,4 +48,4 @@ var head = document.head
   head.appendChild(scriptLink)
 ```
 
-## Source
+Il ne vous reste ensuite qu'a glisser/déposer le lien dans vos favoris.
