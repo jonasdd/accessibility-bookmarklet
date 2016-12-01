@@ -80,6 +80,6 @@ The MIT Licence (MIT)
 
 # TODO
 
-Simplifier le script 
-
+* Simplifier le script 
+* Ajouter des scripts custom (ex: validation des images)
 
