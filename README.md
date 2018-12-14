@@ -66,7 +66,7 @@ var head = document.head
   , scriptLink = document.createElement('script')
   scriptLink.src = inlineScript
   head.appendChild(scriptLink)
-```
+````
 
 Il ne vous reste ensuite qu'à glisser/déposer le lien généré dans vos favoris.
 
